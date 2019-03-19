@@ -353,8 +353,8 @@ the following syntax:
 which results in this embedded visualization:
 
 ~~~ sdparse
-Dogs run
-nsubj(run, Dogs)
+Cats bite
+nsubj(bite, Cats)
 ~~~
 
 Parses represented in the CoNLL-X format can be embedded as illustrated
