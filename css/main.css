@@ -514,3 +514,7 @@ a.topnav  {
   float: right;
   line-height: 40px;
 }
+
+.language-conllu {
+  color: #fff;
+}
